@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, me chamo Vitória e estou aprendendo sobre o mundo de programação
+
+
 
 <!--
 **Vikkysantos/Vikkysantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
