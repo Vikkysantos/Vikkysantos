@@ -3,7 +3,7 @@
 
 <!-- Snake SVG -->
 
-![Snake gif](https://github.com/vikkysantos/vikkysantos/blob/output/ocean.gif)
+![Snake gif](https://github.com/Vikkysantos/Viikkysantos/blob/output/ocean.gif)
 
 
 <!--
