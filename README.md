@@ -2,9 +2,10 @@
 
 
 <!-- Snake SVG -->
-![Snake animation](https://github.com/vikkysantos/vikkysantos/blob/output/github-snake.svg)
+
 ![Snake gif](https://github.com/vikkysantos/vikkysantos/blob/output/ocean.gif)
 
+![Snake animation](https://github.com/vikkysantos/vikkysantos/blob/output/github-snake.svg)
 
 <!--
 **Vikkysantos/Vikkysantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
