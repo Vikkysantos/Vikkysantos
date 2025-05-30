@@ -3,7 +3,8 @@
 
 <!-- Snake SVG -->
 
-<img src="https://raw.githubusercontent.com/Vikkysantos/Vikkysantos/output/snake.svg" alt="Snake animation" /
+![Snake animation](https://raw.githubusercontent.com/Vikkysantos/Vikkysantos/output/snake.svg)
+
 
 
 <!--
